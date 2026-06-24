@@ -17,7 +17,7 @@ This repository contains **125+ Java logic-building problems** designed to stren
 
 * Java
 
-## ✅ Phase 1: While Loop (23/23 Completed)
+## ✅ Phase 1: While Loop (29/29 Completed)
 
 ### Questions Solved
 
@@ -44,10 +44,16 @@ This repository contains **125+ Java logic-building problems** designed to stren
 * [x] Q21 Square of Numbers
 * [x] Q22 Cube of Numbers
 * [x] Q23 Numbers Divisible by 7
+* [x] Q24 Print Factors
+* [x] Q25 Sum of Factors
+* [x] Q26 HCF
+* [x] Q27 LCM
+* [x] Q28 Smallest Digit
+* [x] Q29 Largest Digit
 
 ## 📈 Progress
 
-* [x] Phase 1 - While Loop (23/23)
+* [x] Phase 1 - While Loop (29/29)
 * [ ] Phase 2 - Do While Loop
 * [ ] Phase 3 - For Loop
 * [ ] Phase 4 - Nested Loops
@@ -55,47 +61,6 @@ This repository contains **125+ Java logic-building problems** designed to stren
 * [ ] Phase 6 - Mathematical Series
 * [ ] Phase 7 - Mixed Problems
 * [ ] Phase 8 - Star Patterns
-
-## 📁 Repository Structure
-
-```text
-java-logic-building/
-│
-├── README.md
-│
-├── 01-while-loop/
-│   ├── Q01Print1To10.java
-│   ├── Q02Reverse10To1.java
-│   ├── Q03Even1To100.java
-│   ├── Q04Odd1To100.java
-│   ├── Q05MultiplicationTable.java
-│   ├── Q06SumOfNNaturalNumbers.java
-│   ├── Q07SumOfEvenNumbers.java
-│   ├── Q08SumOfOddNumbers.java
-│   ├── Q09Factorial.java
-│   ├── Q10ProductOfDigits.java
-│   ├── Q11CountDigits.java
-│   ├── Q12ReverseNumber.java
-│   ├── Q13PalindromeNumber.java
-│   ├── Q14SumOfDigits.java
-│   ├── Q15ArmstrongNumber.java
-│   ├── Q16PerfectNumber.java
-│   ├── Q17PrimeNumbers1To100.java
-│   ├── Q18CheckPrimeNumber.java
-│   ├── Q19FibonacciSeries.java
-│   ├── Q20SumOfFibonacciSeries.java
-│   ├── Q21SquareOfNumbers.java
-│   ├── Q22CubeOfNumbers.java
-│   └── Q23NumbersDivisibleBy7.java
-│
-├── 02-do-while-loop/
-├── 03-for-loop/
-├── 04-nested-loops/
-├── 05-break-continue/
-├── 06-math-series/
-├── 07-mixed-problems/
-└── 08-star-patterns/
-```
 
 ## 🎯 Goal
 
